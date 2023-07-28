@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+.clock {
+  font-weight: bold;
+  font-size: 200px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  text-align: center;
+}
